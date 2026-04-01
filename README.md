@@ -1,4 +1,4 @@
-#Hi there 👋, I'm Saransh Rastogi
+Hi there 👋, I'm Saransh Rastogi
 
 🎯 **Data Analyst | SQL • Python • Power BI • Tableau | Mathematics Graduate**
 
@@ -82,16 +82,6 @@ I'm a Data Analyst with a strong foundation in mathematics and hands-on experien
 - Tata – GenAI Powered Data Analytics Simulation  
 - Commonwealth Bank – Data Science Simulation  
 - Forage – Data Labeling Simulation  
-
----
-
-## 📈 GitHub Stats
-
-![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 🌐 Let's Connect
 
