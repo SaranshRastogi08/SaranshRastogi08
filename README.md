@@ -27,51 +27,10 @@ I'm a Data Analyst with a strong foundation in mathematics and hands-on experien
 ### 📊 Data Visualization & BI
 - Power BI
 - Tableau
-- Plotly
 
 ### 📈 Excel & Reporting
 - Advanced Excel (Pivot Tables, Data Modeling, Complex Formulas)
 - Dashboard Development
-
----
-
-## 📌 Experience Highlights
-
-### 📊 Finance & Marketing Intern — *FinChase*
-- Analyzed financial data and market trends to support business decisions  
-- Built reports and visual summaries for stakeholders  
-- Tracked campaign performance metrics and ROI  
-- Conducted competitor analysis for strategic insights  
-
-### 🎯 Campus Head — *EventBeep*
-- Managed engagement metrics (sign-ups, participation, outreach)  
-- Organized events and improved platform adoption  
-- Maintained and analyzed campaign data for optimization  
-
-### 📋 Associate — *Placement Cell, Motilal Nehru College*
-- Managed student & recruiter databases  
-- Ensured data accuracy and streamlined reporting workflows  
-
-### 👑 President — *Bellissimo (Fashion Society)*
-- Led a team of 20+ members across 50+ events  
-- Increased membership by 40% through data-driven strategies  
-- Introduced analytics for event feedback and attendance tracking  
-
----
-
-## 📂 Featured Projects
-
-🔹 **Sales & Performance Dashboard (Power BI)**  
-- Built interactive dashboards to track KPIs and revenue trends  
-
-🔹 **Financial Data Analysis (Python + SQL)**  
-- Cleaned, processed, and analyzed large datasets  
-- Identified market patterns and actionable insights  
-
-🔹 **Excel Reporting Automation**  
-- Automated reporting workflows using advanced Excel techniques  
-
-*(👉 Add your GitHub project links here)*
 
 ---
 
